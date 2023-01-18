@@ -1,12 +1,12 @@
-# VaibhavGhage
+# Vaibhav Ghage
 
 
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img src="assets/welcome.svg"/> </a>
+  <a href="https://github.com/vaibhav4516"> <img src="assets/welcome.svg"/> </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/SamirPaul1"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
+  <a href="https://github.com/vaibhav4516"> <img src="assets/samir.svg"/> <img src="assets/paul.svg"/> </a>
 </p>
 
 
